@@ -15,19 +15,24 @@
   <img src="https://img.shields.io/badge/Git-7aa7e6?logo=git&logoColor=white" alt="Git">
 </p>
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
-## Featured work
+<img src="assets/title-featured.svg" width="100%" alt="Featured work">
 
 | Project | What it is |
 |---|---|
 | ⚽ [**Mora-transfer-analysis**](https://github.com/DominiqueHernandezPacheco/Mora-transfer-analysis) | A data check on a football transfer rumor: same-position percentiles, the penalty effect, and nine precedents. Validated data, documented limitations, executed notebook. |
 | 🚀 [**Prisma**](https://github.com/DominiqueHernandezPacheco/Prisma) | A biological knowledge engine built on NASA data for the NASA Space Apps Challenge 2025. |
-| ⠃ [**BrailLabPlatform**](https://github.com/braillab/BrailLabPlatform) | The web platform for the BrailLab learning experience. |
-| ⠃ [**braillab-translation-service**](https://github.com/braillab/braillab-translation-service) | A text-to-Braille conversion service inside BrailLab's internal API. |
+| 🧩 [**BrailLabPlatform**](https://github.com/braillab/BrailLabPlatform) · [**live site**](https://braillab.netlify.app/) | The web platform for the BrailLab learning experience: Braille lessons, voice navigation and accessibility tools. |
+| 🔤 [**braillab-translation-service**](https://github.com/braillab/braillab-translation-service) | A text-to-Braille conversion service inside BrailLab's internal API. |
 | 🔌 [**tokaya-endpoints**](https://github.com/DominiqueHernandezPacheco/tokaya-endpoints) | Python endpoints for Tokaya, built for Talent Land. |
 
-## What I care about
+<img src="assets/title-recognition.svg" width="100%" alt="Recognition">
+
+- 🥇 **BrailLab:** Gold Medal, Infomatrix México National 2026
+- 🥈 **BrailLab:** Silver Medal, Infomatrix 2025 Regional
+
+<img src="assets/title-care.svg" width="100%" alt="What I care about">
 
 - **Honest analysis:** I report sample sizes, limitations and confidence, and I validate data before drawing conclusions.
 - **Sports analytics:** turning match and player data into questions that can actually be checked.
@@ -37,3 +42,5 @@
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/your-profile) · your-email@example.com
 -->
+
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by">
