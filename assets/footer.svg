@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 150" width="1280" height="150" role="img" aria-label="Thanks for stopping by">
+  <defs><path id="b" d="M0 -12 Q0 0 12 0 Q0 0 0 12 Q0 0 -12 0 Q0 0 0 -12Z"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#eef6ff"/><stop offset="1" stop-color="#d9eafc"/></linearGradient>
+    <clipPath id="m"><rect width="1280" height="150" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#m)">
+    <rect width="1280" height="150" fill="url(#bg)"/>
+    <path fill="#a9d1f5" opacity="0.55" d="M0 105 Q160 81 320 105 T640 105 T960 105 T1280 105 T1600 105 T1920 105 T2240 105 T2560 105 V120 H0 Z"><animateTransform attributeName="transform" type="translate" from="0 0" to="-640 0" dur="13s" repeatCount="indefinite"/></path>
+    <path fill="#c4cffa" opacity="0.6" d="M0 124 Q160 100 320 124 T640 124 T960 124 T1280 124 T1600 124 T1920 124 T2240 124 T2560 124 V120 H0 Z"><animateTransform attributeName="transform" type="translate" from="-640 0" to="0 0" dur="18s" repeatCount="indefinite"/></path>
+    <use href="#b" transform="translate(220 40) scale(1)" fill="#ffffff"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.2s" begin="0s" repeatCount="indefinite"/></use><use href="#b" transform="translate(1050 30) scale(1.2)" fill="#ffffff"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.6s" begin="0.5s" repeatCount="indefinite"/></use><use href="#b" transform="translate(640 18) scale(0.6)" fill="#ffffff"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" begin="1s" repeatCount="indefinite"/></use><use href="#b" transform="translate(430 95) scale(0.6)" fill="#ffffff"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="0.3s" repeatCount="indefinite"/></use><use href="#b" transform="translate(880 90) scale(0.7)" fill="#ffffff"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.9s" begin="1.4s" repeatCount="indefinite"/></use>
+    <text x="640" y="68" text-anchor="middle" style="font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:30px;font-weight:600" fill="#5d6f99">Thanks for stopping by</text>
+  </g>
+</svg>

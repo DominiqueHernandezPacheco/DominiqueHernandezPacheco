@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 40" width="1280" height="40" role="presentation" aria-hidden="true">
+  <defs><clipPath id="c"><rect width="1280" height="40"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <path fill="#a9d1f5" opacity="0.6" d="M0 26 Q160 6 320 26 T640 26 T960 26 T1280 26 T1600 26 T1920 26 T2240 26 T2560 26 V40 H0 Z"><animateTransform attributeName="transform" type="translate" from="0 0" to="-640 0" dur="14s" repeatCount="indefinite"/></path>
+    <path fill="#c4cffa" opacity="0.6" d="M0 32 Q160 14 320 32 T640 32 T960 32 T1280 32 T1600 32 T1920 32 T2240 32 T2560 32 V40 H0 Z"><animateTransform attributeName="transform" type="translate" from="-640 0" to="0 0" dur="19s" repeatCount="indefinite"/></path>
+  </g>
+</svg>
